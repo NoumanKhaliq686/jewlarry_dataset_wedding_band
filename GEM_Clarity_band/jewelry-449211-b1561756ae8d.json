@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jewelry-449211",
+  "private_key_id": "b1561756ae8d2078967508fbb573bd785c2c0d05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCcjP00WMkcaUw\njaO6OG3Apqn2vQGp88o0NSXFpsFicF9AMiPID3ADJH4sV2EO38FyaP2m7acHEmt1\nPkAyc82Fmaz7ei9c2a6g5z5rKpydES8S4+Lbq208QRennkDPaZuTaOyKlOycKy2O\nNBTRl98s2xXbb4e+kDwKLQ9K+cjg7K951r4O3QiQzsJ8o4ren2trCc4/Kk5cBDD6\nTYrH5I62q6TgW8unwJMo0LBsee4VgedAfbb+7MH+OXaANMa7b6nmrof+JCGUMxaQ\nB3X92AKLs/Dmk9IjbsVW9JN0npVzt31+kGzXzFqACpImRfSODIaRqHmNfePxUvBu\n0X6SDDCVAgMBAAECggEAOo2XVbaj6zqJquhMEGyjqCrH7bQWxy3Riw0iFbXUcCc0\nl6lBmyIC8f9QO1wIryj0INa640SXUorabxDS1h6HGh8ftw6hKo2mh297HVxUkvu0\nuDSFgO7LUySq0d/W1l6P6cDj0gtsgM6Dxlmqlz7rhp9mopCgSOM4ITxWaZZ0Rj6Z\nW5w2Yk31ZVeuIDoCTmAM6Cl1tb9efRBKMnDgPjfQIYhrTgMnd5oOgdBub00vju/2\nDgx/G2jGLHuf9CVj9q9BVB6zvt9kJtQEnIZSgJL94UfW6ilNLrTF91vPpsDaAGg3\n8wEJlPIJDtFLh0HIKetvWzGoXT7rvYKJf7+tB7zRtQKBgQDmeNjPV1S2kF/u/rOC\nnWnp5ZVGLM/P9K651GKsA8HwluvJM05q0FPyqzylHge7xghRcY/PQzz666/dAyKX\nojtZ2BcQxTtPOoSz5sMymVlvVMunbvfvqlmb0rsAGbUPlHjrvRf1IGKSHQ5YDeAC\nIuBXbec2r0gpipCtzUiGVMsCTwKBgQDX+9JcKrs2f1X3SFYJQvShQr/B0d6IDJKP\nQNvuQNvt7CqHKJp66wtCMxuIPfa4Eyl1P6/LOOE4Bzc1ok8PQGO5ihi0zil/yA6D\np5THgzFFDi3njjQAXC6Qu2WuCz7Q8y3oqhht4k2e6t/DHC6XKlTVnNI/Q1kQTv2h\n593FDACZ2wKBgFxfVS6NJxPg+8JTbWlNZDTt4o10ynnj7N/oQwAEpYejRa+nk6d2\nBh9+CFl5lsnozk6uQGBm55r+OcdQSV4TFMymsl/zXRkdMDDWraerFNBtYQ6jiFYT\npcSxime45fvvmyOI74A80aUUZjpenUjd56LDFuexCzAzLFesroPAmnk7AoGASg8H\nKqNcXmt7Rrd/CN30k/cXWZZk/7GP758FysRipUp9qqq5jbxat/BeWHEm0CeB57pW\nxRBT6apPvAxTn58skspPfm/SuwYWM/6afW72zf72rpeMLTNupCId03f3qh44d7cb\neVJH214eLADV2O+i9zw2u4qUV4s+XO3slUxwSFECgYBLsYz6gPhUacF5pTWRnPe7\nMMH8majafuZnvw3lw18uytjNyEP74UQjFLJEnEdNjU7N8doiD7UyQYjTxgahtvn1\nBqKyyMV4gtqluXhuXWH5ytjUozPUyT0spKj8CfExQtLcU69RkuDy2UTx2S8LloND\nbRag02OGNNm8aElkNCERig==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-user@jewelry-449211.iam.gserviceaccount.com",
+  "client_id": "108342365434235579363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-user%40jewelry-449211.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
